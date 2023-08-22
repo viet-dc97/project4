@@ -1,0 +1,28 @@
+2023-08-22 23:21:57,503 INFO c.e.d.c.OrderController [main] Submit order by username: hi
+2023-08-22 23:21:57,512 INFO c.e.d.c.OrderController [main] hi submit order successfully
+2023-08-22 23:21:57,514 INFO c.e.d.c.OrderController [main] Get orders by username: hi
+2023-08-22 23:21:57,515 INFO c.e.d.c.OrderController [main] hi get orders successfully
+2023-08-22 23:21:57,517 INFO c.e.d.c.OrderController [main] Submit order by username: hi
+2023-08-22 23:21:57,518 ERROR c.e.d.c.OrderController [main] Not found any user has username [hi]
+2023-08-22 23:21:57,520 INFO c.e.d.c.OrderController [main] Get orders by username: hi
+2023-08-22 23:21:57,521 ERROR c.e.d.c.OrderController [main] Not found any user has username [hi]
+2023-08-22 23:21:57,553 INFO c.e.d.c.UserController [main] Create user request
+2023-08-22 23:21:57,556 INFO c.e.d.c.UserController [main] Create user request successes
+2023-08-22 23:21:57,562 INFO c.e.d.c.UserController [main] Create user request
+2023-08-22 23:21:57,562 ERROR c.e.d.c.UserController [main] Create user request failures
+2023-08-22 23:21:57,564 INFO c.e.d.c.UserController [main] Create user request
+2023-08-22 23:21:57,565 ERROR c.e.d.c.UserController [main] Create user request failures
+2023-08-22 23:22:10,144 INFO c.e.d.c.OrderController [main] Submit order by username: hi
+2023-08-22 23:22:10,149 INFO c.e.d.c.OrderController [main] hi submit order successfully
+2023-08-22 23:22:10,151 INFO c.e.d.c.OrderController [main] Get orders by username: hi
+2023-08-22 23:22:10,151 INFO c.e.d.c.OrderController [main] hi get orders successfully
+2023-08-22 23:22:10,152 INFO c.e.d.c.OrderController [main] Submit order by username: hi
+2023-08-22 23:22:10,153 ERROR c.e.d.c.OrderController [main] Not found any user has username [hi]
+2023-08-22 23:22:10,154 INFO c.e.d.c.OrderController [main] Get orders by username: hi
+2023-08-22 23:22:10,154 ERROR c.e.d.c.OrderController [main] Not found any user has username [hi]
+2023-08-22 23:22:10,182 INFO c.e.d.c.UserController [main] Create user request
+2023-08-22 23:22:10,185 INFO c.e.d.c.UserController [main] Create user request successes
+2023-08-22 23:22:10,190 INFO c.e.d.c.UserController [main] Create user request
+2023-08-22 23:22:10,190 ERROR c.e.d.c.UserController [main] Create user request failures
+2023-08-22 23:22:10,191 INFO c.e.d.c.UserController [main] Create user request
+2023-08-22 23:22:10,192 ERROR c.e.d.c.UserController [main] Create user request failures
